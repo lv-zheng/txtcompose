@@ -1,0 +1,3 @@
+%include "c.txt"
+Sugar is sweet,
+%include <d.txt>

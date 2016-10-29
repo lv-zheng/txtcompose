@@ -1,0 +1,4 @@
+--- BEGIN ---
+Roses are red,
+%include <subdir/b.txt>
+%include "ending.txt"
